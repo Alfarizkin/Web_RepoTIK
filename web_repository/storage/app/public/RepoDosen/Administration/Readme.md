@@ -1,0 +1,1 @@
+Berisi file dan dokumen terkait administrasi, seperti jadwal kuliah, silabus, dan form administrasi lainnya.
