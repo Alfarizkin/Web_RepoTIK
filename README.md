@@ -64,3 +64,7 @@
 8. 🔍 Halaman Pencarian  
    ![search_page](https://github.com/user-attachments/assets/2812a1c5-9c62-4f35-a6bd-3a0d166579b7)
 
+## 👨‍💻 Kontributor
+
+- **Alfarizki Nurachman** – Pengembang utama & satu-satunya kontributor proyek ini
+
